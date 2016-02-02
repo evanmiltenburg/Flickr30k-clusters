@@ -1,6 +1,11 @@
 # Clustering the Flickr30k descriptions
 
-The code in this repository clusters the referring expressions in the Flickr30k Entities data set. It corresponds to the following algorithm:
+The code in this repository clusters the referring expressions in the Flickr30k Entities data set. It corresponds to the algorithm below.
+
+**Requirements**
+This code requires the Flickr30kEntities dataset.
+
+## Algorithm
 
 ### Part 1: counting
 
