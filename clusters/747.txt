@@ -1,2 +1,2 @@
-black belt
-a black belt
+24
+number 24

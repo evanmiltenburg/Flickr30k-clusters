@@ -1,6 +1,6 @@
-a gurnee
-a medical bed
-a gurney
-a stretcher
-a yellow stretcher
-a rolling bed
+a full stadium
+a view of a stadium
+the stadium
+a large crowded stadium
+the stands
+stands

@@ -1,8 +1,8 @@
-a snail shell
 an insect
-a giant spider
-a worm
-a spider
+a snail shell
 a bug
-a grasshopper
+a giant spider
 a rock or sea shell
+a spider
+a grasshopper
+a worm

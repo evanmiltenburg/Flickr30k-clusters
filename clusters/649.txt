@@ -1,4 +1,4 @@
-a stethoscope
-a pink stereoscope
-a pink stethoscope
-a toy stethoscope
+dolphins
+a friendly dolphin
+a dolphin
+the dolphin

@@ -1,12 +1,12 @@
 some sort of float
-a parade float
-a pink life vest
-a red life saver
-a religious float
-pride float
 float
-a floatie
-an inflatable float
-a plastic blow-up float
 a lifesavers
+a religious float
+a plastic blow-up float
+a red life saver
+a pink life vest
+a floatie
+pride float
+an inflatable float
 a float
+a parade float

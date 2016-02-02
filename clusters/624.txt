@@ -1,5 +1,5 @@
-a teal sweatband
-a blue headband
-blue headband
-a green headband
-a turquoise cloth headband
+oven
+a stone oven
+a brick oven
+an old fashioned oven
+the oven door
