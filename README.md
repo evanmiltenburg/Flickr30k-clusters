@@ -3,7 +3,12 @@
 The code in this repository clusters the referring expressions in the Flickr30k Entities data set. It corresponds to the algorithm below.
 
 **Requirements**
-This code requires the Flickr30kEntities dataset.
+This code requires the Flickr30kEntities dataset. Change the path on line 92 so that `files` corresponds to a list of .txt files
+containing the descriptions.
+
+```Python
+files = iglob('./static/Flickr30kEntities/Sentences/*.txt')
+```
 
 ## Algorithm
 
