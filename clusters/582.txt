@@ -1,0 +1,6 @@
+a gurnee
+a medical bed
+a gurney
+a stretcher
+a yellow stretcher
+a rolling bed
