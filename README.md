@@ -2,6 +2,32 @@
 
 The code in this repository clusters the referring expressions in the Flickr30k Entities data set. It corresponds to the algorithm below.
 
+The citation for this clustered data is:
+```
+@inproceedings{miltenburg2016stereotyping,
+	Author = {Emiel van Miltenburg},
+	Booktitle = {Proceedings of Multimodal Corpora: Computer vision and language processing (MMC 2016)},
+	Editor = {Jens Edlund and Dirk Heylen and Patrizia Paggio},
+	Keywords = {ulm2},
+	Pages = {1-4},
+	Title = {Stereotyping and Bias in the Flickr30k Dataset},
+	Url = {http://www.lrec-conf.org/proceedings/lrec2016/workshops/LREC2016Workshop-MCC-2016-proceedings.pdf},
+Year = {2016}}
+```
+
+The citation for the original data is:
+```
+@article{plummer2016flickr30k,
+  title={Flickr30k entities: Collecting region-to-phrase correspondences for richer image-to-sentence models},
+  author={Plummer, Bryan A and Wang, Liwei and Cervantes, Chris M and Caicedo, Juan C and Hockenmaier, Julia and Lazebnik, Svetlana},
+  journal={International Journal of Computer Vision},
+  pages={1--20},
+  year={2016},
+  publisher={Springer}
+}
+
+```
+
 **Requirements**
 This code requires the Flickr30kEntities dataset. Change the path on line 92 so that `files` corresponds to a list of .txt files
 containing the descriptions.
